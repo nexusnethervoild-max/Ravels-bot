@@ -12,16 +12,16 @@
 	"antiInbox": false,
 	"language": "en",
 	"notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-	"nickNameBot": "your_bot_name",
-	"prefix": "+",
+	"nickNameBot": "Noor's-Bot",
+	"prefix": ".",
 	"adminOnly": {
 		"enable": false,
 		"ignoreCommand": []
 	},
 	"adminBot": [
-		"61578365162382"
+		"61577378444250"
 	],
-	"owner": ["61578365162382"],
+	"owner": ["61577378444250"],
 	"whiteListMode": {
 		"enable": false,
 		"whiteListIds": [],
